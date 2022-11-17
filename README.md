@@ -1,3 +1,3 @@
-# WebbCrafted.com
+# WebbCrafted
 
-This is the WebbCrafted GitHub Pages site.
+Please email info@codecraftsmen.org for more information.
